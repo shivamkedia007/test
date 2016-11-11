@@ -1,1 +1,1 @@
-![Click here](woah-staging.app.link).
+<a href="woah-staging.app.link" >Click here</a>
